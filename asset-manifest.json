@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kurtis-classrom-live/static/css/main.c504a9ab.css",
+    "main.js": "/kurtis-classrom-live/static/js/main.89d8090d.js",
+    "static/js/787.6d298cbc.chunk.js": "/kurtis-classrom-live/static/js/787.6d298cbc.chunk.js",
+    "static/media/Miroodles Color Composition_1.png": "/kurtis-classrom-live/static/media/Miroodles Color Composition_1.ab7c3f2db0e3450836e7.png",
+    "static/media/Miroodles Color Composition_2.png": "/kurtis-classrom-live/static/media/Miroodles Color Composition_2.89852b3b1f687c4ee1b4.png",
+    "static/media/Miroodles Color Composition_3.png": "/kurtis-classrom-live/static/media/Miroodles Color Composition_3.7d39168abcb0d64d8a1e.png",
+    "static/media/Miroodles Color Composition_5.png": "/kurtis-classrom-live/static/media/Miroodles Color Composition_5.4baa4a49eaada022125b.png",
+    "static/media/Miroodles Color Composition_4.png": "/kurtis-classrom-live/static/media/Miroodles Color Composition_4.4ffe286f7858c22babc8.png",
+    "static/media/glyphicons-halflings-regular.svg": "/kurtis-classrom-live/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/kurtis-classrom-live/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/kurtis-classrom-live/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/kurtis-classrom-live/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/kurtis-classrom-live/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/download-2.png": "/kurtis-classrom-live/static/media/download-2.351a49a9fa7be677069d.png",
+    "index.html": "/kurtis-classrom-live/index.html",
+    "main.c504a9ab.css.map": "/kurtis-classrom-live/static/css/main.c504a9ab.css.map",
+    "main.89d8090d.js.map": "/kurtis-classrom-live/static/js/main.89d8090d.js.map",
+    "787.6d298cbc.chunk.js.map": "/kurtis-classrom-live/static/js/787.6d298cbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c504a9ab.css",
+    "static/js/main.89d8090d.js"
+  ]
+}
